@@ -234,7 +234,8 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="feee15c7-27b2-433e-a561-02860687469c" load_method="CUSTOM_LOADER" bootstrap_file_path="/var/www/framework/PHPUnitInit.php" configuration_file_path="/var/www/phpunit.xml.dist" custom_loader_path="/var/www/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="feee15c7-27b2-433e-a561-02860687469c" load_method="CUSTOM_LOADER" bootstrap_file_path="/var/www/framework/PHPUnitInit.php" configuration_file_path="/var/www/phpunit.xml.dist" custom_loader_path="/var/www/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="ba6da561-5949-4f63-9aa4-30326a4f3ea0" load_method="CUSTOM_LOADER" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>
