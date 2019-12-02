@@ -17,9 +17,9 @@
     <mask>/cart</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
-    <mask>*.tpl</mask>
     <mask>*Subscriber.php</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
