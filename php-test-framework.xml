@@ -4,7 +4,6 @@
       <tool tool_name="Codeception">
         <settings>
           <configurations>
-            <configuration_by_sdk interpreter_id="f23cb52e-7477-489f-add0-54edbd544221" />
             <configuration_by_sdk interpreter_id="c5464edb-9917-4eb2-a256-7ff6fa151110" executable_path="/var/www/vendor/bin/codecept" />
           </configurations>
         </settings>
@@ -13,6 +12,13 @@
   </component>
   <component name="PhpTestFrameworkVersionCache">
     <tools_cache>
+      <tool tool_name="Codeception">
+        <cache>
+          <versions>
+            <info id="interpreter-c5464edb-9917-4eb2-a256-7ff6fa151110" version="2.5.2" />
+          </versions>
+        </cache>
+      </tool>
       <tool tool_name="PHPUnit">
         <cache>
           <versions>
