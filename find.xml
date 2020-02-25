@@ -18,10 +18,10 @@
     <mask>*.ts</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
-    <mask>*.tpl</mask>
     <mask>*.pl</mask>
     <mask>*Subscriber.php</mask>
     <mask>*.php</mask>
     <mask>*Admin.js</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
