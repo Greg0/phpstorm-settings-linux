@@ -17,11 +17,11 @@
     <mask>/cart</mask>
     <mask>*.ts</mask>
     <mask>*.yml</mask>
-    <mask>*.pl</mask>
     <mask>*Subscriber.php</mask>
     <mask>*.php</mask>
     <mask>*Admin.js</mask>
     <mask>*.sql</mask>
     <mask>*.tpl</mask>
+    <mask>*.pl</mask>
   </component>
 </application>
