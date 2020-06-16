@@ -323,7 +323,6 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="0d894dc5-ffa8-4e33-9329-2b9918f1d7ab" configuration_file_path="/var/www/phpunit.xml.dist" custom_loader_path="/var/www/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
-      <phpunit_by_interpreter interpreter_id="1fdc0d3b-b473-4b6e-8a6b-e54a04cd8045" configuration_file_path="/var/www/phpunit.xml.dist" custom_loader_path="/var/www/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
