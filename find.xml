@@ -22,7 +22,7 @@
     <mask>*.JS</mask>
     <mask>*.tpl</mask>
     <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
