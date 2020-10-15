@@ -1,5 +1,6 @@
 <application>
   <component name="MergeRequestIntegrationApplicationLevel">
+    <Item id="gitlab:GitLab I-systems" providerId="gitlab" url="https://gitlab.i-systems.pl" login="" projectId="201" version="v4" info="" ignoreSSLCertificateErrors="0" repository="" />
     <Setting name="enable-request-cache" value="1" />
     <Setting name="save-mr-filter-state" value="1" />
     <Setting name="comments:display-comments-in-diff-view" value="0" />
