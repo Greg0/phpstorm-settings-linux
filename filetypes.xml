@@ -4,6 +4,7 @@
       <mapping pattern="testSync2" type="PLAIN_TEXT" />
       <mapping pattern="util" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="pwd" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
