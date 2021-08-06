@@ -1,15 +1,4 @@
 <application>
-  <component name="PhpTestFrameworkSettings">
-    <test_tools>
-      <tool tool_name="Codeception">
-        <settings>
-          <configurations>
-            <configuration_by_sdk interpreter_id="0d894dc5-ffa8-4e33-9329-2b9918f1d7ab" configuration_file_path="/var/www/codeception.yml" executable_path="/var/www/vendor/bin/codecept" use_configuration_file="true" />
-          </configurations>
-        </settings>
-      </tool>
-    </test_tools>
-  </component>
   <component name="PhpTestFrameworkVersionCache">
     <tools_cache>
       <tool tool_name="Codeception">
