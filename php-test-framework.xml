@@ -11,7 +11,7 @@
       <tool tool_name="PHPUnit">
         <cache>
           <versions>
-            <info id="interpreter-0d894dc5-ffa8-4e33-9329-2b9918f1d7ab" version="9.1.0" />
+            <info id="interpreter-0d894dc5-ffa8-4e33-9329-2b9918f1d7ab" version="9.5.4" />
             <info id="interpreter-1faeff1e-b237-4ee9-a996-fdee4afc60da" version="9.1.0" />
           </versions>
         </cache>
