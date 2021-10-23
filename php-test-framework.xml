@@ -12,6 +12,7 @@
         <cache>
           <versions>
             <info id="interpreter-0d894dc5-ffa8-4e33-9329-2b9918f1d7ab" version="9.5.4" />
+            <info id="interpreter-ba6da561-5949-4f63-9aa4-30326a4f3ea0" version="9.5.10" />
           </versions>
         </cache>
       </tool>
