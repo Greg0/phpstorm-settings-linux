@@ -1,30 +1,37 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '…/src/trunk/application/modules/integrator/src/Driver/Impuls'" />
+    <option name="defaultScopeName" value="Directory '…/src/trunk/application/modules/integrator/src/Driver/Impuls'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '…/src/trunk/application/modules/integrator/src/Driver/Impuls'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.html</mask>
     <mask>/cart</mask>
     <mask>*.ts</mask>
     <mask>*Admin.js</mask>
     <mask>*Subscriber.php</mask>
     <mask>*.JS</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*Test.php</mask>
     <mask>*.tpl</mask>
     <mask>*.pl</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
     <mask>*.php</mask>
   </component>
 </application>
