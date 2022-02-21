@@ -6,8 +6,8 @@
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="greg0/php-runtime-env:php7.4-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
       <interpreter id="0cb254e2-9fd8-44c1-b2d6-b00d2c022072" name="LOCAL PHP" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="a4aa1850-476b-48a4-8962-a31ba0b16208" name="greg0/php-runtime-env:php5.6-dev" home="docker://DATA" debugger_id="php.debugger.XDebug" debugger_extension="xdebug.so">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="nexus.cloud.mns.pl/isklep/admin:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+      <interpreter id="a4aa1850-476b-48a4-8962-a31ba0b16208" name="greg0/php-runtime-env:php5.6-dev" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="greg0/php-runtime-env:php5.6-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
       <interpreter id="3826a48c-0073-4efa-b3c8-428d110ca22c" name="greg0/php-runtime-env:php7.3-dev" home="docker://DATA" debugger_id="php.debugger.XDebug" debugger_extension="xdebug.so">
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="greg0/php-runtime-env:php7.3-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
@@ -221,8 +221,8 @@
       </interpreter>
       <interpreter name="greg0/php-runtime-env:php5.6-dev">
         <phpinfo binary_type="PHP" php_cli="/usr/local/bin/php" path_separator=":" version="5.6.40">
-          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-exif.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-intl.ini, /usr/local/etc/php/conf.d/docker-php-ext-mysqli.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_mysql.ini, /usr/local/etc/php/conf.d/docker-php-ext-redis.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini</additional_php_ini>
-          <configuration_file />
+          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-exif.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-intl.ini, /usr/local/etc/php/conf.d/docker-php-ext-mysqli.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_mysql.ini, /usr/local/etc/php/conf.d/docker-php-ext-redis.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/local/lib/php" />
           </configuration_options>
@@ -238,6 +238,7 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
+            <extension name="bcmath" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
