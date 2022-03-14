@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -29,11 +30,11 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>bus*.php</mask>
-    <mask>*.yaml</mask>
     <mask>*.po*</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>Event*.php</mask>
     <mask>*Controller.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
